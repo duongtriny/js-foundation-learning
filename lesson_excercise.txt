@@ -1,0 +1,4 @@
+1 - data type quiz: https://www.codeguage.com/courses/js/data-types-quiz
+2 - Regex: https://www.w3resource.com/javascript-exercises/javascript-regexp-exercises.php
+
+https://leetcode.com/problems/valid-parentheses/description/
